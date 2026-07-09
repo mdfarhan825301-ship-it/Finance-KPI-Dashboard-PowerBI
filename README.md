@@ -1,169 +1,88 @@
-#  Financial Performance Dashboard | Power BI
+[README_financial_performance_dashboard.md](https://github.com/user-attachments/files/29847647/README_financial_performance_dashboard.md)
+# Financial Performance Dashboard - Power BI
 
----
-# 📌 Project Overview
+## Project overview
 
-This project showcases an interactive **Financial Performance Dashboard** developed in **Power BI** to monitor key financial metrics and support executive decision-making.
+This is an interactive Financial Performance Dashboard I built in Power BI to track key financial metrics and support executive-level decision-making. It brings revenue, profitability, cash flow, budget performance, receivables, and product performance together in one place, with visuals and KPIs that make it easier to spot trends without digging through spreadsheets.
 
-The dashboard provides a consolidated view of revenue, profitability, cash flow, budget performance, receivables, and product performance using interactive visualizations and KPIs.
+## What it's meant to help with
 
----
+- Watching revenue and profit trends over time
+- Comparing actual performance against budget
+- Keeping an eye on the core financial KPIs
+- Understanding how cash flow is moving
+- Tracking receivables by region
+- Seeing how much each product or service is contributing to revenue
+- Spotting trends early enough to act on them for strategic planning
 
-# 🎯 Business Objectives
+## Tools I used
 
-The dashboard enables stakeholders to:
+Power BI, Power Query, DAX, and Microsoft Excel.
 
-- Monitor revenue and profit trends over time.
-- Compare actual performance against budget.
-- Evaluate financial KPIs.
-- Analyze cash flow performance.
-- Track receivables across regions.
-- Measure product and service revenue contribution.
-- Identify financial performance trends for strategic planning.
-
----
-
-# 🛠️ Tech Stack
-
-- Power BI
-- Power Query
-- DAX
-- Microsoft Excel
-
----
-
-# 📂 Repository Structure
+## Repo structure
 
 ```
 Financial-Performance-Dashboard-PowerBI
-│
-├── Dashboard/
-├── Dataset/
-├── Images/
-├── Documentation/
-├── Presentation/
-└── README.md
+    Dashboard/
+    Dataset/
+    Images/
+    Documentation/
+    Presentation/
+    README.md
 ```
 
+## Key numbers
 
-# 📈 Key Performance Indicators
-
-| KPI | Value |
-|------|------:|
+| Metric | Value |
+|---|---:|
 | Revenue | 24M |
 | Gross Margin | 46% |
 | EBITDA Margin | 25% |
 | Net Cash | 688K |
 
----
+## What's in the dashboard
 
-# 📊 Dashboard Features
+At the executive level, it shows revenue, gross margin percentage, EBITDA percentage, and net cash.
 
-### Executive KPIs
-- Revenue
-- Gross Margin %
-- EBITDA %
-- Net Cash
+For financial analysis, there's a revenue and profit trend view, budget versus actual comparison, a cash flow waterfall, and a monthly performance breakdown.
 
-### Financial Analysis
-- Revenue & Profit Trend
-- Budget vs Actual
-- Cash Flow Waterfall
-- Monthly Financial Performance
+For business analysis, it breaks revenue down by product and service, shows receivables aging by region, and covers product and regional performance.
 
-### Business Analysis
-- Revenue by Product/Service
-- Receivables Aging by Region
-- Product Performance
-- Regional Financial Analysis
+You can also filter by year, quarter, month, region, and product or service.
 
-### Interactive Filters
-- Year
-- Quarter
-- Month
-- Region
-- Product/Service
+## What the numbers showed
 
----
+The business generated 24M in total revenue for the period. A 46 percent gross margin points to solid operational efficiency, and a 25 percent EBITDA margin means profitability held up well. Net cash closed at 688K.
 
-# 📈 Key Business Insights
+Revenue stayed fairly stable with a few periodic peaks rather than wild swings, which suggests steady growth rather than one-off spikes. Profit tracked revenue closely too, which is usually a sign that costs are being managed well rather than eating into gains.
 
-### Financial Performance
-- Generated **24M** in total revenue.
-- Achieved a **46% Gross Margin**, reflecting strong operational efficiency.
-- Maintained an **EBITDA Margin of 25%**, indicating healthy profitability.
-- Closed the period with **688K in Net Cash**.
+On the budget side, actuals were mostly in line with what was budgeted, though there were a few variances worth flagging for better planning going forward. Cash flow stayed positive throughout the period, and the waterfall view makes it easy to see exactly where the inflows and outflows came from.
 
-### Revenue Trends
-- Revenue remained stable with periodic peaks, showing consistent business growth.
-- Profit trends closely followed revenue, suggesting effective cost management.
+Products and services each contributed fairly consistently to total revenue, which makes it easier to compare how different offerings are performing against each other. Receivables were spread out evenly across regions, and the aging analysis helps flag which accounts should be prioritized for collection.
 
-### Budget Performance
-- Actual performance was generally aligned with budget expectations.
-- Variances highlight opportunities for improved financial planning.
+## Skills this project involved
 
-### Cash Flow
-- Positive cash flow was maintained throughout the reporting period.
-- Waterfall analysis highlights the key contributors to cash inflows and outflows.
+Financial analytics, Power BI dashboard development, DAX measures, Power Query, KPI design, executive reporting, budget analysis, cash flow analysis, business intelligence, and data visualization.
 
-### Product Performance
-- Products and services contributed consistently to total revenue.
-- Enables comparison of revenue contribution across business offerings.
+## Files included
 
-### Receivables
-- Receivables remained evenly distributed across regions.
-- Aging analysis helps identify collection priorities and improve working capital.
-
----
-
-# 🚀 Skills Demonstrated
-
-- Financial Analytics
-- Power BI Dashboard Development
-- DAX Measures
-- Power Query
-- KPI Design
-- Executive Reporting
-- Budget Analysis
-- Cash Flow Analysis
-- Business Intelligence
-- Data Visualization
-
----
-
-# 📁 Project Files
-
-| Folder | Description |
-|---------|-------------|
+| Folder | What's in it |
+|---|---|
 | Dashboard | Power BI dashboard and exported reports |
 | Dataset | Source data files |
 | Images | Dashboard screenshots |
 | Documentation | Business requirements, DAX measures, and project documentation |
 | Presentation | Project presentation |
 
----
+## What I'd add next
 
-# 📌 Future Enhancements
+Revenue forecasting, a proper profitability forecast model, a dedicated working capital dashboard, variance analysis broken out by department, deeper financial ratio analysis, and a mobile-optimized version.
 
-- Revenue Forecasting
-- Profitability Forecast Models
-- Working Capital Dashboard
-- Variance Analysis by Department
-- Financial Ratio Analysis
-- Mobile-Optimized Dashboard
+## About me
 
----
+I'm Md Farhan, MBA in Finance and HR.
 
-# 👨‍💻 Author
+Skills: Power BI, SQL, Excel, DAX, Financial Analytics, Business Intelligence.
 
-**Md Farhan**
-
-MBA (Finance & HR)
-
-**Skills:** Power BI • SQL • Excel • DAX • Financial Analytics • Business Intelligence
-
-📧 Email: mdfarhan825301@gmail.com
-
-🔗 LinkedIn: www.linkedin.com/in/md-farhan-6a15b0200
-
----
+Email: mdfarhan825301@gmail.com
+LinkedIn: www.linkedin.com/in/md-farhan-6a15b0200
