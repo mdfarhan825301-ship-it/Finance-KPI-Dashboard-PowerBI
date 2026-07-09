@@ -1,4 +1,3 @@
-[README_financial_performance_dashboard.md](https://github.com/user-attachments/files/29847647/README_financial_performance_dashboard.md)
 # Financial Performance Dashboard - Power BI
 
 ## Project overview
